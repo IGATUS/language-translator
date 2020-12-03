@@ -1,0 +1,6 @@
+textblob==0.15.3
+SpeechRecognition==3.8.1
+playsound==1.2.2
+streamlit==0.71.0
+gTTS==2.2.1
+googletrans==3.0.0
